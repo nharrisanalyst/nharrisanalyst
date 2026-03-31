@@ -36,7 +36,7 @@ Open to:
 
 ## 🚀 Key Project
 
-### fire-exposure-index.com
+### fire-exposure-index (california fire portal)
 
 - Application that Brings Data Visualization Dashboard to fire Risk in California 
 - daily user base 
@@ -51,6 +51,7 @@ Open to:
 fire risk, home insurance, wildfires, california, zipcode
 
 ##  Bespoke DataVisualization
+#### New York City Neighborhoods
 
 <!--
 **nharrisanalyst/nharrisanalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
