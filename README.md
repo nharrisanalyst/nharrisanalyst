@@ -34,6 +34,24 @@ Open to:
 
 ---
 
+## 🚀 Key Project
+
+### fire-exposure-index.com
+
+- Application that Brings Data Visualization Dashboard to fire Risk in California 
+- daily user base 
+- Covers every zipcode in California 
+- Combined and Visualize several data source into a single ETL and Dashboard.
+- Built with Typescript, Reactjs, Flask, SQL.
+- Hosted on AWS
+
+👉 https://www.fire-exposure-index.com
+
+**Keywords for discovery:**
+fire risk, home insurance, wildfires, california, zipcode
+
+##  Bespoke DataVisualization
+
 <!--
 **nharrisanalyst/nharrisanalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
