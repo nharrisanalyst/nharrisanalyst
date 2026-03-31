@@ -17,6 +17,21 @@ I build **Scalable  Applications, Data Visualizations, Scalable UIS**, with a st
 - Data Driven
 - TDD Playwright Vitest
 
+  ---
+
+## 🎯 What I'm Looking For
+
+Actively seeking roles in:
+
+- **Front End Engineer (TypeScript / Reactjs / D3.js)**
+- **Data Visualization / D3.js Bespoke and Dashboards**
+- **Python Apis and ETL Fullstack python Piplines**
+
+Open to:
+- Full-time roles
+- Remote / Hybrid
+- California/USA/ Global teams
+
 ---
 
 <!--
