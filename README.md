@@ -50,8 +50,21 @@ Open to:
 **Keywords for discovery:**
 fire risk, home insurance, wildfires, california, zipcode
 
-##  Bespoke DataVisualization
+## Bespoke DataVisualization
 #### New York City Neighborhoods
+https://nharrisanalyst.github.io/New_York_City_Neighborhoods/
+
+#### Super Bowl Halftime Deficits
+https://nharrisanalyst.github.io/superbowlhalf/
+
+#### Monday Morning QuarterBack
+https://www.mm-qb.com
+
+#### Sac Democratic Primary 
+https://nharrisanalyst.github.io/sac_dem_2/
+
+### NBA LandScape
+https://nharrisanalyst.github.io/nba_all_star_break/
 
 <!--
 **nharrisanalyst/nharrisanalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
