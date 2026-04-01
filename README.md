@@ -1,4 +1,9 @@
 ## Hi there 👋, I am Nathan Harris.
+<!--[![Linkedin Badge](https://img.shields.io/badge/-JosephWilson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseph-santiago-wilson/)](https://www.linkedin.com/in/joseph-santiago-wilson/)-->
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/18819525/pseudo-r)](https://stackoverflow.com/users/5491848/box-and-cox)
+[![Gmail Badge](https://img.shields.io/badge/-nharrisanalyst@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nharrisanalyst@gmail.com)](mailto:nharrisanalyst@gmail.com)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/nharrisanalyst)
+
 
 
 ## 👨‍💻 About Me
