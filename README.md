@@ -97,7 +97,6 @@ SQL, Python ETL, Docker
 ## Activity & Metrics
 
 ![](https://komarev.com/ghpvc/?username=nharrisanalyst&color=blue)
-[![wakatime](https://wakatime.com/badge/user/c0c95904-b67a-4a62-bb09-8d5a5255068b.svg)](https://wakatime.com)
 
 
 ## 🧰 Languages and Tools
