@@ -66,6 +66,23 @@ https://nharrisanalyst.github.io/sac_dem_2/
 ### NBA LandScape
 https://nharrisanalyst.github.io/nba_all_star_break/
 
+## Core Skills (SEO Optimized)
+
+**Languages:**
+TypeScript, JavaScript, Python
+
+**Front End**
+TypeScript, JavaScript, Reactjs, D3.js, Redux, Zustand, SCSS, HTML, ReactQuery, 
+
+**Data Visualization**
+D3.js, SVG, Canvas, Bespoke DataVisualization
+
+**Back End**
+Python, Flask, Django
+
+**Data**
+SQL, Python ETL, Docker
+
 <!--
 **nharrisanalyst/nharrisanalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
