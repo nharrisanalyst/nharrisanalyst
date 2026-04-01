@@ -87,7 +87,12 @@ SQL, Python ETL, Docker
 
 - Built Fire-exposure-index.com **into daily use application**
 - Developed Fire-exposure-index.com as a **core, daily-use tool**
-- Contributed to Open Source Data Visualization Software 
+- Contributed to Open Source Data Visualization Software
+
+## Activity & Metrics
+
+![](https://komarev.com/ghpvc/?username=nharrisanalyst&color=blue)
+[![wakatime](https://wakatime.com/badge/user/c0c95904-b67a-4a62-bb09-8d5a5255068b.svg)](https://wakatime.com)
 
 <!--
 **nharrisanalyst/nharrisanalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
