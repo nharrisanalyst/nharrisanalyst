@@ -83,6 +83,12 @@ Python, Flask, Django
 **Data**
 SQL, Python ETL, Docker
 
+## 🏆 Achievements
+
+- Built Fire-exposure-index.com **into daily use application**
+- Developed Fire-exposure-index.com as a **core, daily-use tool**
+- Contributed to Open Source Data Visualization Software 
+
 <!--
 **nharrisanalyst/nharrisanalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
