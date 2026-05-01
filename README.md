@@ -24,7 +24,7 @@ I build **Scalable  Applications, Data Visualizations, Scalable UIS**, with a st
 
   ---
 ## 🔎 Follow My Current Work In Progress
-- **Engineering Live Alerts to fire-exposure-index.com https://github.com/nharrisanalyst/cal_fire_dash
+- **Engineering Live Alerts to fire-exposure-index.com https://github.com/nharrisanalyst/cal_fire_dash**
 
 ## 🎯 What I'm Looking For
 
