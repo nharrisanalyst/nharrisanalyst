@@ -25,6 +25,7 @@ I build **Scalable  Applications, Data Visualizations, Scalable UIS**, with a st
   ---
 ## 🔎 Follow My Current Work In Progress
 - **Engineering Live Alerts to fire-exposure-index.com https://github.com/nharrisanalyst/cal_fire_dash**
+- **Building a ETL pipeline for WNBA playbyplay data https://github.com/nharrisanalyst/wnba**
 
 ## 🎯 What I'm Looking For
 
