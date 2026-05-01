@@ -23,6 +23,8 @@ I build **Scalable  Applications, Data Visualizations, Scalable UIS**, with a st
 - TDD Playwright Vitest
 
   ---
+## 🔎 Follow My Current Work In Progress
+**Engineering Live Alerts to fire-exposure-index.com [https://github.com/nharrisanalyst/cal_fire_dash]https://github.com/nharrisanalyst/cal_fire_dash
 
 ## 🎯 What I'm Looking For
 
